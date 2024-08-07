@@ -1,4 +1,9 @@
-## Hi, my name is SeoHyeon MUN! 💖
+## Hi, my name is SeoHyeon MUN!
+
+### 💖About me💖
+- 🎓I'm majored in **Computer Sciene**.
+- 👀 I’m interested in **backend development**.
+- 🌱 I’m currently learning **Spring Boot**.
 
 ### 💪🏻Experience💪🏻
   <table>

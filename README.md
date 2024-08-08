@@ -46,7 +46,7 @@
      <tr>
        <td>MIDPOINT : 우리 어디서 만날까?</td>
        <td>2024.03 ~ 2024.08</td>
-       <td>BE</td>
+       <td>웹 BE</td>
       </tr>
     </tbody>
   </table>

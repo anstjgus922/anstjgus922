@@ -1,8 +1,8 @@
 ## Hi, my name is SeoHyeon MUN!
 
 ### 💖About me💖
-- 🎓I'm majored in **Computer Sciene**.
-- 👀 I’m interested in **backend development**.
+- 🎓 I'm majored in **Computer Sciene**.
+- ✨ I’m interested in **backend development**.
 - 🌱 I’m currently learning **Spring Boot**.
 
 ### 💪🏻Experience💪🏻
@@ -34,5 +34,20 @@
   </table>
 
 ### 💻Project💻
-
+<table>
+    <thead>
+      <tr>
+        <th>프로젝트 명</th>
+        <th>기간</th>
+        <th>역할</th>
+      </tr>
+    </thead>
+    <tbody>
+     <tr>
+       <td>MIDPOINT : 우리 어디서 만날까?</td>
+       <td>2024.03 ~ 2024.07</td>
+       <td>BE</td>
+      </tr>
+    </tbody>
+  </table>
 

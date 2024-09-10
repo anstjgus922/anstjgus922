@@ -2,8 +2,8 @@
 
 ### 💖About me💖
 - 🎓 I'm studying **Computer Sciene**.
-- ✨ I’m interested in **backend development**.
-- 🌱 I’m currently learning **Spring Boot**.
+- ✨ I’m interested in **fronted development**.
+- 🌱 I’m currently learning **React**.
 
 ### 💪🏻Experience💪🏻
   <table>

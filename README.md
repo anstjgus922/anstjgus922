@@ -1,9 +1,9 @@
 ## Hi, my name is SeoHyeon MUN!
 
 ### 💖About me💖
-- 🎓 I'm studying **Computer Sciene**.
+- ✏️ I'm studying **Computer Sciene**.
 - ✨ I’m interested in **fronted development**.
-- 🌱 I’m currently learning **React**.
+- 🔯 I’m currently learning **React**.
 
 ### 💪🏻Experience💪🏻
   <table>

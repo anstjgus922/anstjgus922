@@ -20,11 +20,11 @@
       </tr>
       <tr>
         <td>숙명여자대학교 소프트웨어학부 2023 학생회 Index 총무팀 부원</td>
-        <td>2023.03 ~ 2023.12</td>
+        <td>2023.03 ~ 2024.02</td>
       </tr>
       <tr>
         <td>숙명여자대학교 소프트웨어학부 2024 학생회 Core 총무팀 팀장</td>
-        <td>2024.01 ~ present</td>
+        <td>2024.03 ~ present</td>
       </tr>
       <tr>
         <td>숙명여자대학교 프로그래밍 중앙동아리 SOLUX 29기 개발팀 부원</a></td>
@@ -48,6 +48,13 @@
        <td>2024.03 ~ 2024.08</td>
        <td>웹 BE</td>
       </tr>
+      <tr>
+       <td>LearnAIble : AI기반 학습관리 플랫폼</td>
+       <td>2024.09 ~ present</td>
+       <td>웹 FE</td>
+      </tr>
     </tbody>
   </table>
+
+
 

@@ -56,6 +56,9 @@
   ### Education
 - <a href="https://www.boostcourse.org/study-ai401-2024" target="_blank">네이버 부스트코스 코칭스터디 <Generative AI 2024></a> : 2024.10.28 ~ 2024.11.24 (4주)
 
+
+### Certificates
+
 ## ✨Skills✨
 ### Platforms & Languages
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)

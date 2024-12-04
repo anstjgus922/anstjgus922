@@ -1,6 +1,4 @@
 ## Hi, my name is SeoHyeon!
-
-## 💖Experience💖
   <table>
     <thead>
       <tr>
@@ -28,7 +26,9 @@
     </tbody>
   </table>
 
-## 💻Project💻
+## 💖Experience💖
+
+### Project
 <table>
     <thead>
       <tr>
@@ -39,8 +39,8 @@
     </thead>
     <tbody>
      <tr>
-       <td>MIDPOINT : 우리 어디서 만날까?</td>
-       <td>2024.03 ~ 2024.08</td>
+       <td><a href="https://github.com/Solucitation/midpoint-backend">MIDPOINT : 우리 어디서 만날까?</a></td>
+       <td>2024.04 ~ 2024.08</td>
        <td>웹 BE</td>
       </tr>
       <tr>
@@ -50,6 +50,11 @@
       </tr>
     </tbody>
   </table>
+
+  ### Hackathon
+
+  ### Education
+- <a href="https://www.boostcourse.org/study-ai401-2024" target="_blank">네이버 부스트코스 코칭스터디 <Generative AI 2024></a> : 2024.10.28 ~ 2024.11.24 (4주)
 
 ## ✨Skills✨
 ### Platforms & Languages

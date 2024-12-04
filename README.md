@@ -40,7 +40,7 @@
     <tbody>
      <tr>
        <td><a href="https://github.com/Solucitation/midpoint-backend">MIDPOINT : 우리 어디서 만날까?</a></td>
-       <td>2024.04 ~ 2024.08</td>
+       <td>2024.03 ~ 2024.08</td>
        <td>웹 BE</td>
       </tr>
       <tr>

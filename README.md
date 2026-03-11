@@ -48,7 +48,7 @@
        <td>웹 BE</td>
       </tr>
       <tr>
-       <td>LearnAIble : AI기반 학습관리 플랫폼</td>
+       <td><a href="https://github.com/WEBFINITE-solux/WEBFINITE-FE">LearnAIble : AI기반 학습관리 플랫폼</td>
        <td>2024.09 ~ present</td>
        <td>웹 FE</td>
       </tr>

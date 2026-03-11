@@ -49,7 +49,7 @@
       </tr>
       <tr>
        <td><a href="https://github.com/WEBFINITE-solux/WEBFINITE-FE">LearnAIble : AI기반 학습관리 플랫폼</td>
-       <td>2024.09 ~ present</td>
+       <td>2024.09 ~ 2025.02</td>
        <td>웹 FE</td>
       </tr>
     </tbody>

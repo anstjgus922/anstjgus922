@@ -60,7 +60,6 @@
   ### Education
 - <a href="https://www.boostcourse.org/study-ai401-2024">네이버 부스트코스 코칭스터디 <Generative AI 2024></a> : 2024.10.28 ~ 2024.11.24 (4주)
 - <a href="https://sw.sookmyung.ac.kr/modules/board/bd_view.html?no=120&id=sw_notice&p=1&or=bd_order&al=asc&PHPSESSID=85265237958dd086e687375a9b668c0e">2024 SWING 해외 프로그램 in 실리콘밸리</a> : 2025.02.05. ~ 2025.02.12.
-  - [[이수증]2024 SWING 해외 프로그램 in 실리콘밸리.pdf](https://github.com/user-attachments/files/26083465/2024.SWING.in.pdf)
 
 
 ### Certificates

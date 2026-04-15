@@ -55,7 +55,23 @@
     </tbody>
   </table>
 
-  ### Hackathon
+  ### Industry-academic cooperation
+<table>
+    <thead>
+      <tr>
+        <th>프로젝트 명</th>
+        <th>기간</th>
+        <th>주제</th>
+      </tr>
+    </thead>
+    <tbody>
+     <tr>
+       <td>[삼성생명×연세대 산학협력] 라이프놀로지 랩 3기</td>
+       <td>2026.03 ~ present.</td>
+       <td><a href="https://lifenologylab.co.kr/?category=%EC%A3%BC">내일의 개발자 : 보험을 넘어서는 빅테크 솔루션</a></td>
+      </tr>
+    </tbody>
+  </table>
 
   ### Education
 - <a href="https://www.boostcourse.org/study-ai401-2024">네이버 부스트코스 코칭스터디 <Generative AI 2024></a> : 2024.10.28 ~ 2024.11.24 (4주)
